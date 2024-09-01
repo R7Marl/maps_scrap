@@ -11,8 +11,8 @@ Este proyecto es un **scraper de mapas** que permite obtener informaci√≥n espec√
 1. **Clona el repositorio** (si es necesario):
 
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
-   cd tu_repositorio
+   git clone https://github.com/R7Marl/maps_scrap/
+   cd maps_scrap
 
    ```
 2. **Instala dependencias y enciende el proyecto**
